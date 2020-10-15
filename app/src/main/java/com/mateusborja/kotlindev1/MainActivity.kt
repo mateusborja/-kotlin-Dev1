@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
     fun botaoClique(view: View) {
         var texto = findViewById(R.id.text1view1) as TextView
         texto.setText("Eu vou conseguir!")
+
     }
 
 
